@@ -54,6 +54,6 @@ I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of En
 <br>
 
 <div align="center" width="100%">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamix7&layout=compact&theme=dracula">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=gamix7&show_icons=true&theme=dracula&count_private=t&hide=stars">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayshaw7777&layout=compact&theme=dracula">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=binayshaw7777&show_icons=true&theme=dracula&count_private=t&hide=stars">
 </div>
