@@ -1,4 +1,4 @@
-### <body> <h1 style = "font-size:40px;">Hey Designers 👋 </h1></body>
+### <body> <h1 style = "font-size:40px;">Hey Coders 👋 </h1></body>
 
 I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
 <br>
