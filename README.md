@@ -18,7 +18,9 @@ I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of En
     <a href="https://www.linkedin.com/in/binay-shaw-024580183//">
       <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
     </a>
-    <a href="https://leetcode.com/binayshaw7777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="30" /></a>
+    <a href="https://leetcode.com/binayshaw7777/">
+        <img alt="LeetCode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="35" />
+    </a>
     <a href="https://www.facebook.com/youtube.gamix7777">
       <img alt="Facebook" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
     </a>
