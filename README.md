@@ -7,17 +7,16 @@ I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of En
 
 ## Here's more about me:
 
-- 👨🏽‍💻 A student and a newbie Android App Designer.
-- 🌱 I’m currently learning UI Designing,HTML,CSS, GFX designing and other Web framework.
-- 💬 Ask me about Adobe Photoshop!
+- 👨🏽‍💻 A student and an Android Developer.
+- 🏹 Java | C++ | XML
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🤹‍♀️ Skilled in UI/UX, Graphics Designing!
+- 🚀 I love Open Source Contriution.
 - 📫 You can reach me here: [LinkedIn](https://www.linkedin.com/in/binay-shaw-024580183/)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/binay-shaw-024580183//">
       <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-    </a>
-    <a href="https://leetcode.com/binayshaw7777/">
-      <img alt="LeetCode" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
     </a>
     <a href="https://www.facebook.com/youtube.gamix7777">
       <img alt="Facebook" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
