@@ -1,10 +1,11 @@
-### <body> <h1 style = "font-size:40px;">Hey Coders 👋 </h1></body>
+### <h1> Hello Coders < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
 <br>
 <hr>
 <br>
-
+    
+    
 ## Here's more about me:
 
 - 👨🏽‍💻 A student and an Android Developer.
@@ -41,10 +42,9 @@ I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of En
 
 <hr>
 
-[![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayshaw7777&theme=xcode)](https://github.com/binayshaw7777)
 
 
-### My Skills
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div align="center" width=100%>
     <img title="C++" height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
@@ -57,6 +57,9 @@ I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of En
 
 </div>
 
+    
+[![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayshaw7777&theme=xcode)](https://github.com/binayshaw7777)
+    
 ## Checkout my highlights
 
 <br>
@@ -64,4 +67,5 @@ I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of En
 <div align="center" width="100%">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayshaw7777&layout=compact&theme=dracula">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=binayshaw7777&show_icons=true&theme=dracula&count_private=t&hide=stars">
+    <img heigth="150" src="https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=radical">
 </div>
