@@ -41,6 +41,9 @@ I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of En
 
 <hr>
 
+[![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayshaw7777&theme=xcode)](https://github.com/binayshaw7777)
+
+
 ### My Skills
 
 <div align="center" width=100%>
