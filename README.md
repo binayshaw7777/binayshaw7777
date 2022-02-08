@@ -1,9 +1,14 @@
 ### <h1> Hello Coders < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-
+    
+    
 I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
 <br>
 <hr>
 <br>
+    
+ <p align="center">
+   <img src="https://user-images.githubusercontent.com/62587060/152999147-33fa84c2-4aee-4d08-b19a-522310d055b1.gif" alt="animated" />
+ </p>
     
     
 ## Here's more about me:
