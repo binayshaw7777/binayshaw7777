@@ -1,13 +1,5 @@
-### <h1> Hello Coders < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-    
-    
-I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of Engineering, Kalyani, West Bengal.](https://www.jiscollege.ac.in)
-<br>
-<hr>
-<br>
-    
  <p align="center">
-   <img src="https://user-images.githubusercontent.com/62587060/152999147-33fa84c2-4aee-4d08-b19a-522310d055b1.gif" alt="animated" />
+   <img src="https://user-images.githubusercontent.com/62587060/152999147-33fa84c2-4aee-4d08-b19a-522310d055b1.gif" alt="animated" width="860"/>
  </p>
     
     
@@ -49,7 +41,7 @@ I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of En
 
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <div align="center" width=100%>
     <img title="C++" height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
@@ -63,14 +55,17 @@ I am Binay Shaw, pursuing Computer Science and Engineering at [JIS College of En
 </div>
 
     
+## Stats
+
+<br>
+
 [![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayshaw7777&theme=xcode)](https://github.com/binayshaw7777)
-    
-## Checkout my highlights
 
 <br>
 
 <div align="center" width="100%">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayshaw7777&layout=compact&theme=dracula">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=binayshaw7777&show_icons=true&theme=dracula&count_private=t&hide=stars">
+    <br>
     <img heigth="150" src="https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=radical">
 </div>
