@@ -63,6 +63,13 @@
 
 <br>
 
+<div align = "center">
+ 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{binayshaw7777}/count.svg)
+
+</div>
+
 <div align="center" width="100%">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayshaw7777&layout=compact&theme=dracula">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=binayshaw7777&show_icons=true&theme=dracula&count_private=t&hide=stars">
