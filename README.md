@@ -71,17 +71,17 @@
 </div>
 
 <div align="center" width="100%">
+     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayshaw7777&layout=compact&theme=dracula">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=binayshaw7777&show_icons=true&theme=dracula&count_private=t&hide=stars">
     <br>
     <img heigth="150" src="https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=radical">
 </div>
 
 <br>
-
-<a href="https://github.com/binayshaw7777/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
-    </a>
+<div align="center">
+<a>
         <a href="https://open.spotify.com/user/uefzp5iwjg827s8joaui83b4f" align="center">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
     </a>
+ </div>
    
