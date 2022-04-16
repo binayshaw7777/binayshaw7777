@@ -6,7 +6,7 @@
 ## Here's more about me:
 
 - 👨🏽‍💻 A student and an Android Developer.
-- 🏹 Java | C++ | XML
+- 🏹 Java | Kotlin | C++ | XML
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 🤹‍♀️ Skilled in UI/UX, Graphics Designing!
 - 🚀 I love Open Source Contriution.
