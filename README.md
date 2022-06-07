@@ -41,7 +41,7 @@
 
 
 
-<h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> My Skills </h2>
 
 <div align="center" width=100%>
     <img title="C++" height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
