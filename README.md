@@ -1,87 +1,36 @@
  <p>
    <img src="https://user-images.githubusercontent.com/62587060/155869994-699a077f-fffc-4ffd-816d-fd7cab5ed512.png"/>
  </p>
-    
-    
-## Here's more about me:
 
-- 👨🏽‍💻 A student and an Android Developer.
-- 🏹 Java | Kotlin | XML
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 🤹‍♀️ Skilled in UI/UX, Graphics Designing!
-- 🚀 I love Open Source Contriution.
-- 📫 You can reach out to me here: [LinkedIn](https://www.linkedin.com/in/binay-shaw-024580183/)
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/binay-shaw-024580183//">
-      <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-    </a>
-    <a href="https://leetcode.com/binayshaw7777/">
-        <img alt="LeetCode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="42" width="42" />
-    </a>
-    <a href="https://www.facebook.com/youtube.gamix7777">
-      <img alt="Facebook" src="https://img.icons8.com/fluent/50/000000/facebook-new.png" />
-    </a>
-    <a href="https://www.twitter.com/binayplays7777">
-      <img alt="Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
-    </a>
-    <a href="https://www.instagram.com/gamix_7/">
-      <img alt="Instragram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-    </a>
-    <a href="https://www.behance.net/GAMIX7">
-      <img alt="Behance" src="https://img.icons8.com/color/48/000000/behance.png" />
-    </a>
-    <a href="https://www.youtube.com/c/GAMIX7">
-      <img alt="Youtube" src="https://img.icons8.com/color/48/000000/youtube-play.png" />
-    </a>
-
-  </p>
-
-<hr>
+# 💫 About Me:
+👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a 3rd year CSE student at JISCE<br>🏹 Proficient in Java | Kotlin | XML<br>🌱 Currently learning Data Structures and Algorithms<br>🚀 I love contributing to Open Source projects.<br>📫 You can reach out to me here: LinkedIn<br>⚡ Fun fact: I'm a Pianist.
 
 
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/GAMIX7) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youtube.gamix7777) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_yonderly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binayshaw7777) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@binayshaw7777) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/binayplays7777) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/GAMIX7)
 
-<h2> My Skills </h2>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/binayshaw7777?theme=dark&font=Roboto%20Mono)](https://leetcode.com/binayshaw7777?width=500)
 
-<div align="center" width=100%>
-    <img title="C++" height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-    <img title="C" height="50" src="https://img.icons8.com/color/48/000000/c-programming.png">
-    <img title="Java" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-    <img title="Adobe Photoshop" height="50" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
-    <img title="Adobe XD" height="50" src="https://img.icons8.com/color/48/000000/adobe-xd.png">
-    <img title="Android Studio" height="50" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
-    <img title="Sony Vegas Pro" height="50" src="https://img.icons8.com/color/48/000000/sony-vegas.png"/>
 
-</div>
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-    
-## Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=binayshaw7777&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=prussian&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=binayshaw7777&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<br>
-
-[![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayshaw7777&theme=xcode)](https://github.com/binayshaw7777)
-
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=binayshaw7777&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 <div align = "center">
  
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{binayshaw7777}/count.svg)
+**Visitors Count** 
 
-</div>
+![VisitorCount](https://profile-counter.glitch.me/{binayshaw7777}/count.svg) </div>
 
-<div align="center" width="100%">
-     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayshaw7777&layout=compact&theme=dracula">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=binayshaw7777&show_icons=true&theme=dracula&count_private=t&hide=stars">
-    <br>
-    <img heigth="150" src="https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=radical">
-</div>
+# ⭐ Stats 
+[![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayshaw7777&theme=xcode)](https://github.com/binayshaw7777) <br>
 
-<br>
-<div align="center">
-<a>
-        <a href="https://open.spotify.com/user/uefzp5iwjg827s8joaui83b4f" align="center">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
-    </a>
- </div>
-   
+![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
