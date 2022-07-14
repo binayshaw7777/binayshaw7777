@@ -3,14 +3,14 @@
  </p>
 
 # 💫 About Me:
-👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a 3rd year CSE student at JISCE<br>🏹 Proficient in Java | Kotlin | XML<br>🌱 Currently learning Data Structures and Algorithms<br>🚀 I love contributing to Open Source projects.<br>📫 You can reach out to me here: LinkedIn<br>⚡ Fun fact: I'm a Pianist.
+👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a 3rd year CSE student at JISCE<br>🏹 Proficient in Java | Kotlin | XML<br>🌱 Currently learning Data Structures and Algorithms<br>🚀 I love contributing to Open Source projects.<br>📫 You can reach out to me here: [LinkedIn](https://www.linkedin.com/in/binayshaw7777/)<br>⌨ Here's my [Leetcode](https://leetcode.com/binayshaw7777/) profile<br>⚡ Fun fact: I'm a Pianist.
 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/GAMIX7) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youtube.gamix7777) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_yonderly) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binayshaw7777) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@binayshaw7777) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/binayplays7777) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/GAMIX7)
 <div align="center" width=100%>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/binayshaw7777?theme=nord&animation=true&font=Roboto%20Mono)](https://leetcode.com/binayshaw7777)
+<!--[![LeetCode Stats](https://leetcard.jacoblin.cool/binayshaw7777?theme=nord&animation=true&font=Roboto%20Mono)](https://leetcode.com/binayshaw7777)-->
 </div>
 
 
@@ -26,17 +26,17 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align = "center">
+<!--## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=binayshaw7777&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=binayshaw7777&theme=dracula&no-frame=true&no-bg=false&margin-w=4)-->
+ <div align = "center">
  
 **Visitors Count** 
 
 ![VisitorCount](https://profile-counter.glitch.me/{binayshaw7777}/count.svg) </div>
 
 # ⭐ Stats 
-<div align="center" width=100%>
+<div align="center">
 
 [![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayshaw7777&theme=xcode)](https://github.com/binayshaw7777) <br>
 
