@@ -3,7 +3,7 @@
  </p>
 
 # 💫 About Me:
-👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a 3rd year CSE student at JISCE<br>🌱 Currently learning Data Structures and Algorithms<br>⌨ Here's my [Leetcode](https://leetcode.com/binayshaw7777/) profile<br>⚡ Fun fact: I'm a Pianist.
+👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a 3rd year CSE student at JISCE<br>🌱 Currently learning Data Structures and Algorithms<br>⌨ Here's my [Leetcode](https://leetcode.com/binayshaw7777/) profile<br>⚡ A secret: I'm a Pianist.
 
 
 ## 🌐 Socials:
