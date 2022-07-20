@@ -42,3 +42,7 @@
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
+
+## Contribute ##
+All the developed Apps/Products are completely Free to use. You can contribute if you want :)<br><br>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/binayshaw7777)
