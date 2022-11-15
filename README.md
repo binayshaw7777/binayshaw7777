@@ -22,11 +22,11 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 # 📊 GitHub Stats:
-<div align="center" width=100%>
+<!--div align="center" width=100%>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=prussian&hide_border=true)<br/>
 
-</div>
+</div-->
 
 <!--## 🏆 GitHub Trophies
 
@@ -37,13 +37,15 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/{binayshaw7777}/count.svg) </div>
 
-# ⭐ Stats 
+<!--# ⭐ Stats 
 <div align="center">
 
 [![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayshaw7777&theme=xcode)](https://github.com/binayshaw7777) <br>
 
+</div-->
+
 ![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-</div>
+
 
 <!--
 ## Contribute ##
