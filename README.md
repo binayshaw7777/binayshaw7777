@@ -27,11 +27,12 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📊 GitHub Stats:
-<!--div align="center" width=100%>
+<div align="center" width=100%>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=prussian&hide_border=true)<br/>
+<!--div> [](https://github-readme-streak-stats.herokuapp.com/?user=binayshaw7777&theme=prussian&hide_border=true)<br/> </div-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binayshaw7777&layout=compact)](https://github.com/binayshaw7777/github-readme-stats)
 
-</div-->
+</div>
 
 <!--## 🏆 GitHub Trophies
 
@@ -46,6 +47,8 @@
 <div align="center">
 
 [![Binay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=binayshaw7777&theme=xcode)](https://github.com/binayshaw7777) <br>
+
+<br>
 
 </div-->
 
