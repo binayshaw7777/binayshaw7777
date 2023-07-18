@@ -4,7 +4,7 @@
  </p>
 
 ### 💫 About Me:
-👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a pre-final year CSE student<br>🎨 Exploring Backend Development<br>🌱 Currently learning Data Structures and Algorithms<br>⚡ A secret: I'm a Pianist.
+👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a Final year CSE student<br>🎨 Exploring Backend + Frontend Development<br>🌱 Currently learning Data Structures and Algorithms<br>⚡ A secret: I'm a Pianist.
 
 
 ### 🌐 Socials:
