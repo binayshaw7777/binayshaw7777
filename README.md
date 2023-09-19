@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/62587060/182472944-2991c181-5275-469d-a34e-304171682ec4.gif"/>
  </p-->
 
-### Hi, This is Binay Shaw:
+### Hi, This is Binay Shaw,
 A self-taught Android developer and UI Designer.
 
 - I develop Native Android Applications using both XML & Jetpack Compose.
@@ -12,8 +12,12 @@ A self-taught Android developer and UI Designer.
 - I love exploring other fields of Kotlin.
 
 
-### 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/binayshaw7777)
+### Let's connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binayshaw7777)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binayshaw7777@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/binayplays7777)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@binayshaw7777)
+<!--[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/binayshaw7777)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/binayshaw7777)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/binayplays7777)
 <!--[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/2DDd4KJKRe)-->
