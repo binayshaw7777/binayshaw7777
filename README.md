@@ -6,10 +6,15 @@
 ### Hi, This is Binay Shaw,
 A self-taught Android developer and UI Designer.
 
-- I develop Native Android Applications using both XML & Jetpack Compose.
-- I'm currently working on Compose libraries.
-- I write articles on Medium as well.
-- I love exploring other fields of Kotlin.
+- I develop Native Android Applications using both XML & Jetpack Compose
+- I'm currently working on Compose libraries like [KotStep](https://github.com/binayshaw7777/KotStep)
+- I'm also contributing to Compose Web Framework [Kobweb](https://github.com/varabyte/kobweb)
+- I write articles on [Medium](https://medium.com/@binayshaw7777) as well
+
+
+### My Apps on PlayStore:
+- JusTap - https://play.google.com/store/apps/details?id=com.binay.shaw.justap
+- ReadBud - https://play.google.com/store/apps/details?id=com.binayshaw7777.readbud
 
 
 ### Let's connect:
