@@ -12,7 +12,7 @@ A self-taught Android developer and UI Designer.
 - I write articles on [Medium](https://medium.com/@binayshaw7777) as well
 
 
-### My Apps on PlayStore:
+### My Apps:
 - JusTap - https://play.google.com/store/apps/details?id=com.binay.shaw.justap
 - ReadBud - https://play.google.com/store/apps/details?id=com.binayshaw7777.readbud
 
