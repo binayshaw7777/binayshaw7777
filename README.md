@@ -2,23 +2,45 @@
    <img src="https://user-images.githubusercontent.com/62587060/155869994-699a077f-fffc-4ffd-816d-fd7cab5ed512.png"/>
     <img src="https://user-images.githubusercontent.com/62587060/182472944-2991c181-5275-469d-a34e-304171682ec4.gif"/>
  </p-->
+![Binay](https://github.com/binayshaw7777/binayshaw7777/assets/62587060/37dd913d-ded9-45a4-bf67-8bbba405f5dc)
 
-## Hi, This is Binay,
+<!--## Hi, This is Binay,-->
+## <img width="45" alt="about" src="https://raw.github.com/SebastianAigner/SebastianAigner/master/about.png"> More about me
+```kotlin
+val SebastianAigner = human {
+    about {
+        name = "Binay Shaw"
+        company = Ionage
+        role = Software_Engineer_1
+    }
+
+    tech {
+        day("Kotlin", "Jetpack_Compose", "SwiftUI", "KMP_CMP")
+        night("Gaming", "Side_Projects", ".*".toRegex())
+    }
+
+    links {
+        twitter = "@binayplays7777"
+        website = "binayshaw.me"
+    }
+}
+```
+<!--
 A self-taught Android developer and UI Designer.
 
 - I develop Native Android Applications using both XML & Jetpack Compose
 - I'm currently working on Compose libraries like [KotStep](https://github.com/binayshaw7777/KotStep)
 - I'm also contributing to Compose Web Framework [Kobweb](https://github.com/varabyte/kobweb)
 - I write articles on [Medium](https://medium.com/@binayshaw7777) as well
-
+-->
 
 ### My Apps:
-- JusTap - https://play.google.com/store/apps/details?id=com.binay.shaw.justap
-- ReadBud - https://play.google.com/store/apps/details?id=com.binayshaw7777.readbud
+- JusTap - https://bit.ly/justap-playstore
+- ReadBud - https://bit.ly/readbud-playstore
 
 ### My Sites:
-- PassGenie - https://binayshaw7777.github.io/PassGinie-Kobweb/
-- Kotfolio - https://kotfolio.onrender.com/
+- PassGenie - https://bit.ly/passgenie
+- Kotfolio - https://bit.ly/kotfolio
 
 
 ### Let's connect:
