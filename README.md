@@ -7,7 +7,7 @@
 <!--## Hi, This is Binay,-->
 ## <img width="45" alt="about" src="https://raw.github.com/SebastianAigner/SebastianAigner/master/about.png"> More about me
 ```kotlin
-val SebastianAigner = human {
+val binayshaw7777 = human {
     about {
         name = "Binay Shaw"
         company = Ionage
