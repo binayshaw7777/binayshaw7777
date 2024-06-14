@@ -16,10 +16,11 @@ val binayshaw7777 = human {
     }
 
     links {
-        twitter = "@binayplays7777"
-        website = "binayshaw.me"
-        medium = "@binayshaw7777"
         email = "binayshaw7777@gmail.com"
+        website = "binayshaw.me"
+        twitter = "@binayplays7777"
+        medium = "@binayshaw7777"
+        linkedIn = "in/binayshaw7777"
     }
 }
 ```
