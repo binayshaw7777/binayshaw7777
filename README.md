@@ -11,13 +11,13 @@ val binayshaw7777 = human {
     }
 
     tech {
-        day("Kotlin", "Jetpack_Compose", "SwiftUI", "KMP_CMP")
+        day("Kotlin", "Jetpack_Compose", "SwiftUI", "KMP_CMP", "Figma")
         night("Side_Projects", ".*".toRegex())
     }
 
     links {
         email = "binayshaw7777@gmail.com"
-        website = "binayshaw.me"
+        website = "binay-shaw.onrender.com"
         twitter = "@binayplays7777"
         medium = "@binayshaw7777"
         linkedIn = "in/binayshaw7777"
@@ -26,3 +26,4 @@ val binayshaw7777 = human {
 ```
 
 </div-->
+
