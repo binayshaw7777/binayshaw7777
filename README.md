@@ -6,7 +6,7 @@
 val binayshaw7777 = human {
     about {
         name = "Binay Shaw"
-        company = Ionage
+        company = Swiggy
         role = Software_Engineer_1
     }
 
